@@ -8,6 +8,8 @@
 
 - I do paid consulting & freelancing @ [Consult with Rake](https://guidedhacking.com/threads/paid-mentoring-consulting-with-rake.14581/)
 
+- I'm not really too active at Github because I prefer to post everything on my website
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/guidedhacking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guidedhacking" height="30" width="40" /></a>
