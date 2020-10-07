@@ -1,17 +1,16 @@
 <h1 align="center">Hello There 👋, it's me Rake</h1>
 <h3 align="center">I am a humble reverse engineer and C++ developer</h3>
+<h3 align="center">I make tutorials about reverse engineering and game hacking</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gh-rake" alt="gh-rake" /> </p>
+- 🔭 I’m the owner of [GuidedHacking.com](https://guidedhacking.com)
 
-- 🔭 I’m currently working at [GuidedHacking](https://guidedhacking.com)
+- 👨‍💻 I have hundreds of tutorials, articles & source codes at [guidedhacking.com](https://guidedhacking.com)
 
-- 👨‍💻 All of my projects & articles are at [https://guidedhacking.com](https://guidedhacking.com)
-
-- 📫 How to reach me **Twitter:@guidedhacking**
+- I do paid consulting & freelancing @ [Consult with Rake](https://guidedhacking.com/threads/paid-mentoring-consulting-with-rake.14581/)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/@guidedhacking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@guidedhacking" height="30" width="40" /></a>
+<a href="https://twitter.com/guidedhacking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guidedhacking" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8985046" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8985046" height="30" width="40" /></a>
 <a href="https://instagram.com/legitguidedhacking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="legitguidedhacking" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/guidedhacking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="guidedhacking" height="30" width="40" /></a>
