@@ -6,6 +6,16 @@
 
 ![gh-banner-esp](https://github.com/GH-Rake/GH-Rake/assets/15186628/d12a91e3-65af-4678-88f5-17abb0eac224)
 
+GuidedHacking is the best resource to learn reverse engineering, game hacking, malware analysis, exploit development and ethical hacking.  We sell 11 courses, we have 440+ video tutorials, thousands of text tutorials, thousands of source codes & more.  Guided Hacking is a paid service, it is not a free website.  You must pay to gain access to our learning materials.
+
+We provide tutorials in text and video format teaching all forms of game modding including the basic programming in C++, Usage of applications such as Cheat Engine, IDA Pro, x64dbg etc..., Basic disassembly of portable executable files, General reverse engineering practices, Graphic APIs such as OpenGL and Direct3D and anything else you might need to learn.
+
+Guided Hacking has been the #1 Source for Learning Game Hacking Since 2011, but we have recently moved into the information security space, adding malware analysis, ethical hacking, exploit development and much more to our catalog of content.
+
+We have 12 content creators and many contributors who all earn money making educational content for our paying customers.
+
+Is Guided Hacking worth it?  For 10$ a month you gain access to 11 courses, 440+ video tutorials and almost a thousand text tutorials.  So yes, GuidedHacking.com is worth it if you truly want to learn.  If you want to paste cheats and pretend to be a hacker on Discord, then you should go somewhere else.
+
 
 <h3>Official GH Courses</h3>
 <ul>
