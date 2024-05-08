@@ -1,0 +1,15 @@
+GuidedHacking.com License
+Version 1, 05-08-2024
+
+GuidedHacking™ © 2024 GuidedHacking
+
+All rights reserved.
+
+Disclaimer:
+This project contains code developed and published on GuidedHacking.com
+GuidedHacking™ sells educational content including source codes like this.
+
+License Rules:
+1. You may use this code in personal and private projects, but distributing the projects is only permitted as compiled binaries.
+2. Redistribution of the source code itself, in any form, even modified, is not permitted.
+3. A copy of this license must accompany any distribution of the files, including compiled binaries.
